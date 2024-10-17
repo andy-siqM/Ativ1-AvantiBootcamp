@@ -10,4 +10,4 @@ Q4: Matriz de confusão e uso para avaliar o desempenho de um modelo preditivo.
 
 Q5: Aplicação de algoritmos na área da Saúde.
 
-A avaliação não tem valor númerio, mas serve para nivelar conhecimento sobre conceitos básicos de machine learning.
+A avaliação não tem valor númerico, mas serve para nivelar conhecimento sobre conceitos básicos de machine learning.
